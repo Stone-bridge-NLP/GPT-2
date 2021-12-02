@@ -1,6 +1,10 @@
 # GPT-2
 
+Genre classification by lyrics in GPT-2 embedding.
+
+
 reference
+---------
 
 [https://huggingface.co/docs/transformers/model_doc/gpt2](https://huggingface.co/docs/transformers/model_doc/gpt2)
 
